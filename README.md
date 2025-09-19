@@ -15,9 +15,9 @@
 
 🌱 **I'm currently Learning :** PyTorch | TensorFlow
 
+🤝 **Looking For Help With :** AI and ML for NetSys-CyberSec
 
-🤝 **Looking For Help With :** AI and ML for NetSys-CyberSe*
-
+📫 **How to reach me:** fitiazahan@yahoo.com;
 
 ### 🛠️ Languages and Tools
 <p align="left">
