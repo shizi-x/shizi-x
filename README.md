@@ -1,24 +1,21 @@
-# 👋 Welcome! I am Shizai
-### 🌍 A simple developer working on LFS from Madagascar
+##  Welcome! I am Shizai
+###  A simple developer working on LFS from Madagascar
 
----
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - **PyTorch**
 - **TensorFlow**
 
-## 🤝 Looking For Help With
+### 🤝 Looking For Help With
 - **AI and ML for NetSys-CyberSec**
 
----
 
-## 🔗 Connect With Me
+### 🔗 Connect With Me
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shiloenix)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/najorzai)
 
----
 
-## 🛠️ Languages and Tools
+### 🛠️ Languages and Tools
 <p align="left">
 <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -53,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shizi-x&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
