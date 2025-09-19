@@ -11,13 +11,13 @@
 </a>
 <a href="https://www.instagram.com/najorzai">
   <img align="left" alt="Shizai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a><br>
 
-### 🌱 Currently Learning 
+🌱 I'm currently Learning 
 - **PyTorch** | **TensorFlow**
 
 
-### 🤝 Looking For Help With 
+🤝 Looking For Help With 
 - **AI and ML for NetSys-CyberSec**
 
 
