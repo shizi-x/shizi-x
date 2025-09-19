@@ -1,8 +1,17 @@
 ##  Welcome! I'm Shizai 
 #### A simple developer working on LFS from Madagascar
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shiloenix)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/najorzai)
-
+<a href="https://twitter.com/shiloenix">
+  <img align="left" alt="Shizai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in//">
+  <img align="left" alt="Shizai's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/shizai">
+  <img align="left" alt="Shizai's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/najorzai">
+  <img align="left" alt="Shizai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 ### 🌱 Currently Learning 
 - **PyTorch** | **TensorFlow**
