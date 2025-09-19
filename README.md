@@ -13,12 +13,12 @@
   <img align="left" alt="Shizai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><br>
 
-🌱 I'm currently Learning 
-- **PyTorch** | **TensorFlow**
+🌱 **I'm currently Learning** 
+- PyTorch | TensorFlow
 
 
-🤝 Looking For Help With 
-- **AI and ML for NetSys-CyberSec**
+🤝 **Looking For Help With** 
+- AI and ML for NetSys-CyberSe*
 
 
 ### 🛠️ Languages and Tools
