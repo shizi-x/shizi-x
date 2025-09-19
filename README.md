@@ -4,10 +4,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/najorzai)
 
 
-### 🌱 Currently Learning - **PyTorch** | **TensorFlow**
+### 🌱 Currently Learning 
+#### **PyTorch** | **TensorFlow**
 
 
-### 🤝 Looking For Help With -**AI and ML for NetSys-CyberSec**
+### 🤝 Looking For Help With 
+#### **AI and ML for NetSys-CyberSec**
 
 
 ### 🛠️ Languages and Tools
