@@ -13,11 +13,6 @@
 - **AI and ML for NetSys-CyberSec**
 
 
-### 🔗 Connect With Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shiloenix)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/najorzai)
-
-
 ### 🛠️ Languages and Tools
 <p align="left">
 <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
