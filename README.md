@@ -5,11 +5,11 @@
 
 
 ### 🌱 Currently Learning 
-#### **PyTorch** | **TensorFlow**
+- **PyTorch** | **TensorFlow**
 
 
 ### 🤝 Looking For Help With 
-#### **AI and ML for NetSys-CyberSec**
+- **AI and ML for NetSys-CyberSec**
 
 
 ### 🛠️ Languages and Tools
