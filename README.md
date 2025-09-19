@@ -58,4 +58,7 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shizi-x&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizi-x&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&layout=compact&theme=dark)
 
