@@ -1,4 +1,4 @@
-##  Welcome! I'm Shizai 🦁▶️
+##  Welcome! I'm Shizai 
 #### A simple developer working on LFS from Madagascar
 
 
