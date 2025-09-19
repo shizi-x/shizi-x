@@ -7,14 +7,17 @@
 - **PyTorch**
 - **TensorFlow**
 
+
 ### 🤝 Looking For Help With
 ---
 - **AI and ML for NetSys-CyberSec**
+
 
 ### 🔗 Connect With Me
 ---
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shiloenix)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/najorzai)
+
 
 ### 🛠️ Languages and Tools
 ---
@@ -51,9 +54,8 @@
 </p>
 
 
-### 📊 GitHub Stats
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizi-x&show_icons=true&theme=dark)
 
+### 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&layout=compact&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizi-x&show_icons=true&theme=dark)
