@@ -1,5 +1,5 @@
 ##  Welcome! I'm Shizai 
-#### A simple developer working on LFS from Madagascar
+#### A simple polyvalent developer working on LFS from Madagascar 
 
 <a href="https://twitter.com/shiloenix">
   <img align="left" alt="Shizai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -18,7 +18,7 @@
 
 🤝 **Looking For Help With :** DSA, AI and ML for NetSys-CyberSec
 
-📫 **How to reach me:** fitiazahana@yahoo.com;
+📫 **How to reach me:** fitiazahana@yahoo.com
 
 ### 🛠️ Languages and Tools
 <p align="left">
@@ -59,8 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-<p>
-  
+<p> 
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizi-x&theme=dark" alt="shizai"/>
- 
 </p>
