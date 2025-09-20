@@ -1,6 +1,6 @@
-##  Welcome! I'm Shizai <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hlaXQ4dnpldDVlMHgyNDFkNjdwaHpzeTlqdWtzM3V5Z3l0aGh5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hp3IUYwQpCYkt97LTF/giphy.gif"></a> 
+<h2> Welcome! I'm Shizai <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hlaXQ4dnpldDVlMHgyNDFkNjdwaHpzeTlqdWtzM3V5Z3l0aGh5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hp3IUYwQpCYkt97LTF/giphy.gif"></a></h2> 
 
-#### A simple polyvalent developer working on LFS from Madagascar 
+<h4>A simple polyvalent developer working on LFS from Madagascar</h4> 
 
 <a href="https://twitter.com/shiloenix">
   <img align="left" alt="Shizai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,13 +15,13 @@
   <img align="left" alt="Shizai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><br><br>
 
-🌱 **I'm currently Learning :** PyTorch | TensorFlow
+🌱 <b>I'm currently Learning :</b> PyTorch | TensorFlow
 
-🤝 **Looking For Help With :** DSA, AI and ML for NetSys-CyberSec
+🤝 <b>Looking For Help With :</b> DSA, AI and ML for NetSys-CyberSec
 
-📫 **How to reach me:** fitiazahana@yahoo.com
+📫 <b>How to reach me:</b> fitiazahana@yahoo.com
 
-### 🛠️ Languages and Tools
+<h3>🛠️ Languages and Tools</h3>
 <p align="left">
 <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
@@ -54,7 +54,7 @@
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
-### 📊 GitHub Stats
+<h3>📊 GitHub Stats<h3>
 <div style="display: flex; justify-content: center; gap: 10px;">  
   <img src="https://github-readme-stats.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark"/>
