@@ -2,6 +2,7 @@
 
 <h4>A simple polyvalent developer working on LFS from Madagascar</h4> 
 
+<div color=rgba(80, 80, 80, 0.9)>
 <a href="https://twitter.com/shiloenix">
   <img align="left" alt="Shizai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -14,6 +15,7 @@
 <a href="https://www.instagram.com/najorzai">
   <img align="left" alt="Shizai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><br><br>
+</div>
 
 🌱 <b>I'm currently Learning :</b> PyTorch | TensorFlow
 
