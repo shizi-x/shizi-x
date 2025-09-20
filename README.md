@@ -1,4 +1,5 @@
-##  Welcome! I'm Shizai 
+##  Welcome! I'm Shizai <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hlaXQ4dnpldDVlMHgyNDFkNjdwaHpzeTlqdWtzM3V5Z3l0aGh5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hp3IUYwQpCYkt97LTF/giphy.gif"></a> 
+
 #### A simple polyvalent developer working on LFS from Madagascar 
 
 <a href="https://twitter.com/shiloenix">
