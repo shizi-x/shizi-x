@@ -54,10 +54,10 @@
 </p>
 
 ### 📊 GitHub Stats
-<div style="display: flex; justify-content: space-between;">
+<p>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark"/>
-</div>
+  <img height="180px" card_width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark"/>
+</p>
 
 <p>
   
