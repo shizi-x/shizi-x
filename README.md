@@ -1,5 +1,6 @@
 ##  Welcome! I'm Shizai 
 #### A simple developer working on LFS from Madagascar
+
 <a href="https://twitter.com/shiloenix">
   <img align="left" alt="Shizai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,7 +16,7 @@
 
 🌱 **I'm currently Learning :** PyTorch | TensorFlow
 
-🤝 **Looking For Help With :** AI and ML for NetSys-CyberSec
+🤝 **Looking For Help With :** DSA, AI and ML for NetSys-CyberSec
 
 📫 **How to reach me:** fitiazahana@yahoo.com;
 
@@ -53,6 +54,15 @@
 </p>
 
 ### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&layout=compact&theme=dark)
+/*![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizi-x&show_icons=true&theme=dark)*/
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shizi-x&show_icons=true&theme=dark)
+<p>
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizi-x&theme=dark" alt="shizai"/>
+ 
+</p>
