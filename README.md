@@ -1,6 +1,6 @@
 <h2> Welcome! I'm Shizai <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hlaXQ4dnpldDVlMHgyNDFkNjdwaHpzeTlqdWtzM3V5Z3l0aGh5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hp3IUYwQpCYkt97LTF/giphy.gif" width="40px" height="40px"></a></h2> 
 
-<h4>A simple polyvalent developer and SecOPS working on LFS from Madagascar</h4> 
+<h4>A motivated developer and SecOPS working on LFS from Madagascar</h4> 
 
 <a href="https://twitter.com/shiloenix">
   <img align="left" alt="Shizai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -56,10 +56,10 @@
 
 <h3>📊 GitHub Stats<h3>
 <div style="display: flex; justify-content: center; gap: 10px;">  
-  <img src="https://github-readme-stats.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark&cache_seconds=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark&cache_seconds=60"/>
 </div>
 
 <p> 
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizi-x&theme=dark&cache_seconds=10" alt="shizai"/>
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizi-x&theme=dark&cache_seconds=60" alt="shizai"/>
 </p>
