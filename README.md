@@ -17,7 +17,7 @@
 
 🌱 <b>I'm currently Learning :</b> PyTorch | TensorFlow
 
-🤝 <b>Looking For Help With :</b> DSA, AI and ML for NetSys-CyberSec
+🤝 <b>Looking For Help With :</b> AI and ML for NetSys-CyberSec
 
 📫 <b>How to reach me:</b> fitiazahana@yahoo.com
 
