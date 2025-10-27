@@ -15,7 +15,6 @@
   <img align="left" alt="Shizai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a><br><br>
 
-📫 <b>How to reach me :</b> fitiazahana@yahoo.com
 <table align="center" cellpadding="10">
   <tr>
     <th colspan="8">🌐 Web Technologies</th>
@@ -100,3 +99,5 @@
 <p> 
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizi-x&theme=dark&cache_seconds=60" alt="shizai"/>
 </p>
+
+📫 <b>How to reach me :</b> fitiazahana@yahoo.com
