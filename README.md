@@ -1,7 +1,7 @@
 <h2> Welcome! I'm Shizai <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2hlaXQ4dnpldDVlMHgyNDFkNjdwaHpzeTlqdWtzM3V5Z3l0aGh5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hp3IUYwQpCYkt97LTF/giphy.gif" width="40px" height="40px"></a></h2> 
 
 <h4>A motivated developer and SecOPS working on LFS from Madagascar</h4> 
-
+<p align="right">
 <a href="https://twitter.com/shiloenix">
   <img align="left" alt="Shizai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,7 +13,7 @@
 </a>
 <a href="https://www.instagram.com/najorzai">
   <img align="left" alt="Shizai's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br><br>
+</a><br></p>
 
 <table align="center" cellpadding="10">
   <tr>
