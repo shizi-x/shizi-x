@@ -41,6 +41,8 @@
     <td><a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a></td>
     <td><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></td>
     <td><a href="https://symfony.com"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a></td>
+    <td><a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="aspnet" width="40" height="40"/></a></td>
     <td><a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a></td>
   </tr>
 
