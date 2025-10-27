@@ -79,8 +79,7 @@
     <td><a href="https://mariadb.org/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/></a></td>
     <td><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="sqlserver" width="40" height="40"/></a></td>
-  </tr>
+ </tr>
 
   <tr>
     <th colspan="8">🛡️ SecOPS</th>
