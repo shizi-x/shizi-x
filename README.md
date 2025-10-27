@@ -72,7 +72,7 @@
   </tr>
 
   <tr>
-    <th colspan="8">💅 Databases</th>
+    <th colspan="8">💾 Databases</th>
   </tr>
   <tr>
     <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
