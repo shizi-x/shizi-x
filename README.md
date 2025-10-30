@@ -80,7 +80,7 @@
  </tr>
 
   <tr>
-    <th colspan="8">🛡️ SecOPS</th>
+    <th colspan="8">🛡️ OPS</th>
   </tr>
   <tr>
     <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
