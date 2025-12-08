@@ -102,4 +102,3 @@
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizi-x&theme=dark&cache_seconds=60" alt="shizai"/>
 </p>
 
-📫 <b>How to reach me :</b> fitiazahana@yahoo.com
