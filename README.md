@@ -98,7 +98,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark&cache_seconds=60"/>
 </div>
 
-<p> 
+<!--<p> 
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shizi-x&theme=dark&cache_seconds=60" alt="shizai"/>
-</p>
+</p>-->
 
