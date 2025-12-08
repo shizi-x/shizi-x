@@ -94,8 +94,10 @@
 
 <h3>📊 GitHub Stats<h3>
 <div style="display: flex; justify-content: center; gap: 10px;">  
-  <img src="https://github-readme-stats.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark&cache_seconds=60"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark&cache_seconds=60"/>-->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shizi-x&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shizi-x&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html,java&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <p> 
