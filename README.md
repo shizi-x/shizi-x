@@ -31,7 +31,7 @@
     <td><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a></td>
     <td><a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a></td>
     <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-    <td></td><a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="40" height="40" /></a></td>
+    <td><a href="https://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.svg" alt="django" width="40" height="40" /></a></td>
     <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a></td>
     <td><a href="https://symfony.com"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></a></td>
   </tr>
