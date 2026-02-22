@@ -15,7 +15,6 @@
 
 <table align="center" cellpadding="10">
   <tr>
-    <th colspan="8"></th>
   </tr>
   <tr>
     <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
@@ -24,7 +23,6 @@
   </tr>
 
   <tr>
-    <th colspan="8"></th>
   </tr>
   <tr>
     <td><a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a></td>
@@ -37,7 +35,6 @@
   </tr>
 
   <tr>
-    <th colspan="8"></th>
   </tr>
   <tr>
     <td><a href="https://www.w3schools.com/cpp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
@@ -51,7 +48,6 @@
   </tr>
   
   <tr>
-    <th colspan="8"></th>
   </tr>
   <tr>
     <td><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a></td>
@@ -62,7 +58,6 @@
  </tr>
 
   <tr>
-    <th colspan="8"></th>
   </tr>
   <tr>
     <td><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/></a></td>
