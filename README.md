@@ -13,7 +13,7 @@
 </a><br><br>
 
 
-<table align="center" cellpadding="5">
+<table align="center" cellpadding="5" style="border-collapse: collapse; border: none;">
   <tr>
     <td><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a></td>
     <td><a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/></a></td>
